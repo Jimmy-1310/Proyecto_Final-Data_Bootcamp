@@ -33,7 +33,8 @@ Create a mockup of a simple Machine Learning Model
 - split the dataset into features (inputs) and target (output)
 - <img src="/Resources/s1-OutputLabel-inputData.png" width="30%" height="30%">
 
-**Summary**
+***Summary***
+
 Our model is currently still under development, from what we could observe during this first attempt was that the accuracy was not as high as we expected (0.5965), however, we are working on it. 
 
 <img src="/Resources/s1_modelEvaluation.png" width="50%" height="50%">
