@@ -23,4 +23,29 @@ Create a mockup of a simple Machine Learning Model
 - How does this model work?
     - Random Forest randomly sampling subsets of the training data, fitting a model to these smaller data sets and aggregating the predictions.
 
-### First Segment Overview 
+
+**Takes in data in from provisional database**
+| provisional dataframe | convert columns into integer labels |
+| --- | --- |
+| <img src="/Resources/s1_provisionalDB-1.png"> | <img src="/Resources/s1_provisionalDB-2.png"> | 
+
+**Outputs label for input data**
+- split the dataset into features (inputs) and target (output)
+- <img src="/Resources/s1-OutputLabel-inputData.png" width="30%" height="30%">
+
+**Summary**
+Our model is currently still under development, from what we could observe during this first attempt was that the accuracy was not as high as we expected (0.5965), however, we are working on it. 
+
+<img src="/Resources/s1_modelEvaluation.png" width="50%" height="50%">
+
+To calculate the feature importance, we are using *feature_importances_attribute* and this allows us to observe which features have the most impact on decision.
+
+<img src="/Resources/s1_features.png" width="40%" height="40%">
+    
+The following image shows a comparison of the first ten output results of the prediction model against the real ones.
+
+<img src="/Resources/s1_Labels.png" width="10%" height="10%">
+
+As can be seen, the target is not a binary output, which is why we continue reading about decision trees and random forest in order to improve the model.
+
+### Second Segment Overview 
