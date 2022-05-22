@@ -27,5 +27,7 @@ The atributes of the dataset are:
   - TUE (Time Using Technology Devices)
   - MTRANS (Transportation Used)
   - NObesity (Class Variable of Each Persons Condition)
+  
+  *Reference:* Mendoza F. Hoz A. (2019) *Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and    Mexico* Data in Brief, *25.* Colombia. https://doi.org/10.1016/j.dib.2019.104344.
 
-- Question:
+- Question: Can we predict the NObesity lavel of each person based on its eating and physical habits? 
