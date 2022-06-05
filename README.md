@@ -101,4 +101,4 @@ Other variables obtained:
 
 ## Presentation
 
-- Link to google slides: https://docs.google.com/presentation/d/1Jdf4heuwrzw9M38ElS6dBKVavCPF9txG/edit?usp=sharing&ouid=112917397941097674410&rtpof=true&sd=true
+- Link to google slides: [Presentation in Google Slides]([https://link-url-here.org](https://docs.google.com/presentation/d/1Jdf4heuwrzw9M38ElS6dBKVavCPF9txG/edit?usp=sharing&ouid=112917397941097674410&rtpof=true&sd=true))
