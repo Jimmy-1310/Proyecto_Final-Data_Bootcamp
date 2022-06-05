@@ -32,7 +32,7 @@ For more technical aspects, we will use a slack chanel. In this chanel we expect
 ![Obesity](https://user-images.githubusercontent.com/95836718/169713265-3e8c5c34-352d-46da-8a41-723e5591649c.jpg)
 
 
-## Theme
+### Theme
 
 - **Selected Topic:** Determining obesity levels based on eating habits and physical condition.
 
@@ -98,3 +98,7 @@ Other variables obtained:
 - Can we predict the NObesity lavel of each person based on its eating and physical habits? 
 - Do a person's daily habits affect the level of BMI they have
 -	What habit could have greater relevance to suffer from obesity or overweight?
+
+## Presentation
+
+- Link to google slides: https://docs.google.com/presentation/d/1Jdf4heuwrzw9M38ElS6dBKVavCPF9txG/edit?usp=sharing&ouid=112917397941097674410&rtpof=true&sd=true
