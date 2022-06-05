@@ -99,6 +99,13 @@ Other variables obtained:
 - Do a person's daily habits affect the level of BMI they have
 -	What habit could have greater relevance to suffer from obesity or overweight?
 
+- Data exploration: For the data exploration phase we used tableau in order to look and identify possible trends or skews in the datasets. We created different visualizations and identify possible restrictions and upgrades that could be done in the future.
+
+- Analysis phase: For this part we read and analyze to identify real life problematics that this data set could help us try and solve them in a small scale.
+
 ## Presentation
 
 - Link to google slides: [Presentation in Google Slides](https://docs.google.com/presentation/d/1Jdf4heuwrzw9M38ElS6dBKVavCPF9txG/edit?usp=sharing&ouid=112917397941097674410&rtpof=true&sd=true)
+
+## Dashboard
+- Link to Dashboard storyboard: [Presentation in Google Slides](https://docs.google.com/presentation/d/1rHq1z4LorEYc7CLixxZTJgrROWLZ_GQZk9jOlRYaSV4/edit?usp=sharing)
