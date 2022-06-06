@@ -31,6 +31,9 @@ For more technical aspects, we will use a slack chanel. In this chanel we expect
 
 ![Obesity](https://user-images.githubusercontent.com/95836718/169713265-3e8c5c34-352d-46da-8a41-723e5591649c.jpg)
 
+### Outline
+
+For this project we are trying to put into work what we learned during this bootcamp to try and solve a problematic. We are focusing on the obesity problematic among the mexican population. We are going to train a supervised Machine Learning Model in order to predict and judge the eating habits of the population, so that they can evaluate their habits and see if they need to make a change.
 
 ### Theme
 
