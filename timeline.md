@@ -50,3 +50,30 @@ The following image shows a comparison of the first ten output results of the pr
 As can be seen, the target is not a binary output, which is why we continue reading about decision trees and random forest in order to improve the model.
 
 ### Second Segment Overview 
+Machine Learning: Random Forest with Feature Selection
+- What is the model's accuracy?
+    - second attempt: 0.8504
+     
+- If there are statistics involved, what stats are being included in analysis and why?
+    - Logist regression, It is used for predicting the categorical dependent variable using a given set of independent variables 
+
+**Connecting to AWS RDS with SQL Alchemy**
+| python (aws + sqlalchemy + join) | dataframe | 
+| --- | --- |
+| <img src="/Resources/s2_DB-2.png"> | <img src="/Resources/s2_DB-3.png"> |
+
+- Description of preliminary data preprocessing
+    - drop missing data *df = df.dropna()*
+    
+- Description of preliminary feature engineering and preliminary feature selection, including their decision-making process
+    - feature selection: *gender, age, family_history_with_overweight, favc, fcvc, ncp, caec, smoke, ch20, scc, faf, tue, calc, mtrans*
+    - id(pk's), weight and height were eliminated, since it is intended to determine obesity levels based on eating habits and physical condition.
+    
+- Description of how data was split into training and testing sets
+<img src="/Resources/s2_splitData.png" width="40%" height="40%">
+    
+- Explanation of model choice, including limitations and benefits
+    - The random forest algorithm produces good predictions that can be understood easily and it provides a higher level of accuracy in predicting outcomes over the decision tree algorithm. The main limitation of random forest is that a large number of trees can make the algorithm too slow and ineffective for real-time predictions
+
+- Model Evaluation (second attempt)
+<img src="/Resources/s2_modelEvaluation.png" width="40%" height="40%">
