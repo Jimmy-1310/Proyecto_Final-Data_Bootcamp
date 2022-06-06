@@ -1,40 +1,36 @@
---Table  Obesity Data Set
-CREATE TABLE Obesity_data_set (
+-- ML model DBs
+-- people DB
+CREATE TABLE people (
+  p_id INT PRIMARY KEY NOT NULL UNIQUE,
+  gender TEXT,
+  age INT,
+  height DECIMAL,
+  weight DECIMAL,
+  NObeyesdad TEXT
+);
 
-    Gender varchar ,
-	 Age VARCHAR,
-	 Height numeric,
-	 Weight numeric,
-	 family_history_with_overweight VARCHAR,
-	 FAVC VARCHAR,
-	 FCVC numeric,
-	 NCP numeric,
-	 CAEC VARCHAR, 
-	 SMOKE VARCHAR , 
-	 CH2O numeric,
-	 SCC VARCHAR,
-	 FAF numeric,
-	 TUE numeric,
-	 CALC VARCHAR,
-	 MTRANS VARCHAR,
-	 NObeyesdad VARCHAR 
-	--PRIMARY KEY (NObeyesdad)
-         );
+-- people's answers DB
+CREATE TABLE answers (
+  a_id INT PRIMARY KEY NOT NULL UNIQUE,
+  p_id INT,
+  family_history_with_overweight TEXT,
+  FAVC TEXT,  	
+  FCVC DECIMAL,
+  NCP DECIMAL,
+  CAEC TEXT,
+  smoke TEXT,
+  CH20 DECIMAL,
+  SCC TEXT,
+  FAF DECIMAL,
+  TUE DECIMAL,
+  CALC TEXT,
+  MTRANS TEXT
+);
 
-select * from ObesityDataSet;
-
-
---Table  Obesity level
-CREATE TABLE Obesity_level (
-	ID numeric,
-	NObeyesdad VARCHAR,
-	Reccommendation VARCHAR
-	);
-	
-select * from Obesity_level;
-	
-
-
-
-
-
+-- recommendations DB
+CREATE TABLE health_recommendations (
+  r_id INT PRIMARY KEY NOT NULL UNIQUE,
+  BMI INT,
+  BMI_description TEXT,
+  recommendation TEXT
+);
