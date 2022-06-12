@@ -111,4 +111,4 @@ Other variables obtained:
 - Link to google slides: [Presentation in Google Slides](https://docs.google.com/presentation/d/1Jdf4heuwrzw9M38ElS6dBKVavCPF9txG/edit?usp=sharing&ouid=112917397941097674410&rtpof=true&sd=true)
 
 ## Dashboard
-- Link to Dashboard storyboard: [Presentation in Google Slides](https://docs.google.com/presentation/d/1rHq1z4LorEYc7CLixxZTJgrROWLZ_GQZk9jOlRYaSV4/edit?usp=sharing)
+- Link to Dashboard: [Interactive Dashboard](https://jimmy-1310.github.io/Proyecto_Final-Data_Bootcamp/)
