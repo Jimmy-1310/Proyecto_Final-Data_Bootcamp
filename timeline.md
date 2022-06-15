@@ -86,15 +86,6 @@ Machine Learning: Random Forest with Feature Selection
 
 | Random Forest Model | *feature selection based on importance weights* |
 | --- | --- |
-| <img src="/Resources/s4_modelEvaluation.png"> | <img src="/Resources/s4_modelEvaluation_FS.png"> | 
+| <img src="/Resources/s4_modelEvaluation_ok.png"> | <img src="/Resources/s4_modelEvaluation_FSr.png"> 
 
-Results of the machine learning models: ***High Risk***
-| ML Model | Balance Accuracy Score | 
-| --- | --- |  
-| Random Forest   | 0.9375 | 
-| Random Forest based on importance weights | 0.9659 | 
-| Undersampling   | 0.54 |
-| SMOTEENN    | 0.65 |
-| Balanced Random Forest Classifier | 0.79 | 
-| Easy Ensemble AdaBoost Classifier | 0.93 |
 
