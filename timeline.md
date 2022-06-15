@@ -87,9 +87,16 @@ Machine Learning: Random Forest with Feature Selection
 - Random Forest - Model Evaluation
 <img src="/Resources/s4_modelEvaluation.png" width="40%" height="40%">
 
+In summary this random forest model is good at classifying the weight ranges (BMI levels) of each person based on its eating and physical habits because the model's accuracy, 0.856, and F1 score values are high.
+
+
 - Random Forest with Feature Selection - Model Evaluation
 
 | *feature selection based on importance weights* | *Model Evaluation* |
 | --- | --- |
 | <img src="/Resources/s4_features.png"> | <img src="/Resources/s4_modelEvaluation_FS.png"> 
+
+It can be seen that the most relevant habits are Age, Frequency of consumption of vegetables (FCVC), Number of main meals (NCP) and Physical activity frequency (FAF),
+
+In order to improve the model, the features of lower rank were dropped, however, there were no improvements in the accuracy of the model.
 
