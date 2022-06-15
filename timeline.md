@@ -77,3 +77,24 @@ Machine Learning: Random Forest with Feature Selection
 
 - Model Evaluation (second attempt)
 <img src="/Resources/s2_modelEvaluation.png" width="40%" height="40%">
+
+
+### Four Segment Overview 
+- What is the model's accuracy?
+    - four attempt: 0.9375
+    - feature selection based on importance weights: 0.9659
+
+| Random Forest Model | *feature selection based on importance weights* |
+| --- | --- |
+| <img src="/Resources/s4_modelEvaluation.png"> | <img src="/Resources/s4_modelEvaluation_FS.png"> | 
+
+Results of the machine learning models: ***High Risk***
+| ML Model | Balance Accuracy Score | 
+| --- | --- |  
+| Random Forest   | 0.9375 | 
+| Random Forest based on importance weights | 0.9659 | 
+| Undersampling   | 0.54 |
+| SMOTEENN    | 0.65 |
+| Balanced Random Forest Classifier | 0.79 | 
+| Easy Ensemble AdaBoost Classifier | 0.93 |
+
