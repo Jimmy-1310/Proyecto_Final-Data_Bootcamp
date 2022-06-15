@@ -112,3 +112,7 @@ Other variables obtained:
 
 ## Dashboard
 - Link to Dashboard: [Interactive Dashboard](https://jimmy-1310.github.io/Proyecto_Final-Data_Bootcamp/)
+
+## Machine Learning
+
+The Development of the machine learning process can be reviewed in: [timeline.md](https://github.com/Jimmy-1310/Proyecto_Final-Data_Bootcamp/blob/main/timeline.md)
