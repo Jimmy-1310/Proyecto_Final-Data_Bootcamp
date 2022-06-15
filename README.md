@@ -98,9 +98,9 @@ Other variables obtained:
 
 
 - Questions: 
-- Can we predict the NObesity lavel of each person based on its eating and physical habits? 
-- Do a person's daily habits affect the level of BMI they have
--	What habit could have greater relevance to suffer from obesity or overweight?
+Can we predict the NObesity lavel of each person based on its eating and physical habits? 
+Does a person's daily habits affect the level of BMI they have
+What habit could have greater relevance to suffer from obesity or overweight?
 
 - Data exploration: For the data exploration phase we used tableau in order to look and identify possible trends or skews in the datasets. We created different visualizations and identify possible restrictions and upgrades that could be done in the future.
 
