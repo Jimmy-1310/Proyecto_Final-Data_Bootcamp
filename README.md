@@ -23,7 +23,7 @@ For more technical aspects, we will use a slack chanel. In this chanel we expect
 ### Technologies
 
 - Data Storage: For the data storage were are going to use a Postgres Database hosted in Amazon Web Services. 
-- ML model:
+- ML model: Random Forest
 - Data Visualization: In order to create and organize helpful visualizations to give critical insight into what the data tells us, we are going to be using Tableau public. 
 - Final Presentation: In order to colaborate and develop a descriptive presentation we are going to use Google Slides.
 
