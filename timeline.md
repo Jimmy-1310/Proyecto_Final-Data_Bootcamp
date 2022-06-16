@@ -87,7 +87,7 @@ Machine Learning: Random Forest with Feature Selection
 - Random Forest - Model Evaluation
 <img src="/Resources/s4_modelEvaluation.png" width="40%" height="40%">
 
-In summary this random forest model is good at classifying the weight ranges (BMI levels) of each person based on its eating and physical habits because the model's accuracy, 0.856, and F1 score values are high.
+In summary this random forest model is good at classifying the weight ranges (BMI levels) of each person based on its eating and physical habits because the model's accuracy, 0.856, and F1 score values are high. In other words, the person's daily habits affect the level of BMI
 
 
 - Random Forest with Feature Selection - Model Evaluation
